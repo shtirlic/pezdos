@@ -1,4 +1,4 @@
-# pezdOS
-pezdOS "new wave" RTOS with microkernel architecture
+# pezDOS
+pezDOS "new wave" RTOS with microkernel architecture
 
-Powerfull Embeded Zealot Device Operating System
+Pragmatic Embeded Zero Delay Operating System
